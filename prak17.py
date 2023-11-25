@@ -6,6 +6,7 @@ def is_int(data) :
 print(is_int(5))
 print(is_int(5.0))
 print(is_int("5"))
+print("ggmu")
 
 
 
